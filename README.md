@@ -25,7 +25,7 @@ Run the command below from the Terminal:
 
       git clone <URL> in your terminal
 
-	  cd hello-microverse-project
+	  cd hello-microverse
 
 	  start index.html
 
